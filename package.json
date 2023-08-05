@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "express": "^4.18.2",
+    "hbs": "^4.2.0"
+  },
+  "name": "express-js-website",
+  "version": "2.0.1",
+  "description": "This is a basic express website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Touseef hussain",
+  "type": "commonjs",
+  "license": "ISC"
+}
